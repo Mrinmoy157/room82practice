@@ -2,7 +2,7 @@ package room82Practice.noon;
 
 import org.testng.annotations.Test;
 
-public class Mrin {
+public class MrinTest {
 	@Test
 	public void create() {
 		System.out.println("Mrin stays away from girls");
